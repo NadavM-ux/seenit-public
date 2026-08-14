@@ -1,6 +1,7 @@
 # SeenIt
 
-Chrome extension that dims listings you have already opened on **Airbnb** and **Yad2**, so search results stop repeating themselves.
+Chrome extension that dims listings you have already opened on **Airbnb**, **Yad2**, and
+**Booking.com**, so search results stop repeating themselves.
 
 Everything stays on your device. No account, no backend, no analytics, no network requests.
 
@@ -20,6 +21,6 @@ Something broken, a site stopped working, or a feature request?
 
 Please include:
 
-- the site (Airbnb or Yad2) and the page URL if you can
+- the site (Airbnb, Yad2, or Booking.com) and the page URL if you can
 - what you expected vs what happened
 - Chrome version and OS
